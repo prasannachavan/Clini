@@ -1,4 +1,1 @@
-This is my secondi file to add in gi
-the stat flag allows you to didplay the number of line  of code added to and 
-deleteed from a repository in each commit.
-t
+This is my secondi file to add in git
