@@ -1,0 +1,3 @@
+the fourth commit is our list now has the name of its tag specified.  this is because
+the decorate flag reveals the references associated with each commit in our commit history.
+
