@@ -1,4 +1,10 @@
 This is my first file for gi
 This is for secondi comments
 learn how to install git and staging the file.
-t
+
+make some changes and commit and save fgiles in master branch thanks
+and buy.
+
+sdjfdslfldjs
+lkjlkfjlkdsj
+
