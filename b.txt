@@ -1,1 +1,5 @@
-This is my secondi file to add in git
+hello perache personal git with conflicts
+dsfjsldjflksd
+laskfjlsdjfa
+asjflsdkjf
+
