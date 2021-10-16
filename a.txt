@@ -9,3 +9,6 @@ f[lkjsd'fsd;flkf
 lkkasdjflkjdslkf
 ldsflkjsadf
 
+if yout dont chagne in your file but that changes u dont want in the original file then git stash command will be user. 
+
+
