@@ -2,6 +2,7 @@ This is my first file for gi
 This is for secondi comments
 learn how to install git and staging the file.
 
+<<<<<<< HEAD
 jsdfkldlksf
 lkadslfjlkds
 f[lkjsd'fsd;flkf
@@ -11,4 +12,11 @@ ldsflkjsadf
 
 if yout dont chagne in your file but that changes u dont want in the original file then git stash command will be user. 
 
+=======
+make some changes and commit and save fgiles in master branch thanks
+and buy.
+
+sdjfdslfldjs
+lkjlkfjlkdsj
+>>>>>>> b1
 
